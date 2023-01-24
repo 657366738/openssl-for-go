@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "cstring": "c",
+        
+    },
+    "go.buildOnSave": "workspace",
+ "go.lintOnSave": "package",
+ "go.vetOnSave": "workspace",
+ "go.coverOnSave": false,
+    "go.lintTool": "golint",
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+ "go.useCodeSnippetsOnFunctionSuggest": true,
+
+ "go.gocodePackageLookupMode": "go",
+ "go.inferGopath": false,
+"debug.console.fontFamily": "default",
+
+"debug.allowBreakpointsEverywhere": true,
+
+ "go.autocompleteUnimportedPackages": true,
+ "go.docsTool": "gogetdoc",
+"go.formatTool": "goimports",
+"git.ignoreLimitWarning": true,
+}
